@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CraftIQ2.Api", "CraftIQ2.Api\CraftIQ2.Api.csproj", "{F229C3F5-83C2-42B4-83F3-3637119EEBFD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CraftIQ2.Core", "CraftI@2.Core\CraftIQ2.Core.csproj", "{F1A58589-B048-4CA6-B8E4-44F34B053959}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CraftIQ2.infastrcure", "CraftIQ2.infastrcure\CraftIQ2.infastrcure.csproj", "{FDF14018-FA0D-4120-900B-F7B19CE40A65}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CraftIQ2.service", "CraftIQ2.service\CraftIQ2.service.csproj", "{7FA2125D-9E4A-4D70-BEA1-882F795242B1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CraftIQ2.Shared", "CraftIQ2.Shared\CraftIQ2.Shared.csproj", "{90E04434-12B3-4B24-929A-70C064CED989}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{E5B50330-0846-4F85-AADA-C2F21E2DFECD}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F229C3F5-83C2-42B4-83F3-3637119EEBFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F229C3F5-83C2-42B4-83F3-3637119EEBFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F229C3F5-83C2-42B4-83F3-3637119EEBFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F229C3F5-83C2-42B4-83F3-3637119EEBFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1A58589-B048-4CA6-B8E4-44F34B053959}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1A58589-B048-4CA6-B8E4-44F34B053959}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1A58589-B048-4CA6-B8E4-44F34B053959}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1A58589-B048-4CA6-B8E4-44F34B053959}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDF14018-FA0D-4120-900B-F7B19CE40A65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDF14018-FA0D-4120-900B-F7B19CE40A65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDF14018-FA0D-4120-900B-F7B19CE40A65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDF14018-FA0D-4120-900B-F7B19CE40A65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7FA2125D-9E4A-4D70-BEA1-882F795242B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FA2125D-9E4A-4D70-BEA1-882F795242B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FA2125D-9E4A-4D70-BEA1-882F795242B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FA2125D-9E4A-4D70-BEA1-882F795242B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90E04434-12B3-4B24-929A-70C064CED989}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90E04434-12B3-4B24-929A-70C064CED989}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90E04434-12B3-4B24-929A-70C064CED989}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90E04434-12B3-4B24-929A-70C064CED989}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C77F8033-9D62-448C-982A-A8CAECFD521C}
+	EndGlobalSection
+EndGlobal
